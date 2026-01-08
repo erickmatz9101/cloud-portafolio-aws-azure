@@ -29,6 +29,10 @@ Puertos abiertos innecesarios (HTTP/HTTPS sin configuración)
 🛡️ Mitigación: abrir solo los puertos necesarios y aplicar reglas de firewall estrictas.
 
 📸 Evidencias:
+<img width="1887" height="806" alt="Security Groups" src="https://github.com/user-attachments/assets/969427c4-59c6-4813-97dc-345e16030bca" />
+<img width="1896" height="532" alt="key pair" src="https://github.com/user-attachments/assets/bc9297e5-b7a2-4d7b-a3b4-6e0de2136341" />
+<img width="1898" height="817" alt="Instancia Runing" src="https://github.com/user-attachments/assets/9d2e9a6b-d40b-4750-83f3-e970d90c651a" />
+<img width="1448" height="625" alt="Conexion EC2" src="https://github.com/user-attachments/assets/ca085ab2-f3c7-4c57-a2bb-f1ddfbeabce9" />
 
 
 
